@@ -1,7 +1,7 @@
 from tkinter import *
 top=Tk()
 top.geometry("1200x600")
-top.title("DK ")
+top.title("DineshKumar ")
 top.config(bg="black")
 w=Label(top,text="Welcome Our page",font=("Algerian",20,"italic"),bg="black",fg="white")
 w.place(x=500,y=20)
